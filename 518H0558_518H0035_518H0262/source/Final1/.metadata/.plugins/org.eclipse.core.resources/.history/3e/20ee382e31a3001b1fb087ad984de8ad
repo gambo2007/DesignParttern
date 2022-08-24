@@ -1,0 +1,5 @@
+package Entity.Decorator;
+
+public class SugarMilk {
+
+}

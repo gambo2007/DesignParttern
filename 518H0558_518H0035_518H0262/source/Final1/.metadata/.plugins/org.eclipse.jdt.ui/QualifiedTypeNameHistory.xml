@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="Entity.Template.OrderProcess"/>
+    <fullyQualifiedTypeName name="Entity.Template.NetOrder"/>
+    <fullyQualifiedTypeName name="Entity.Template.StoreOrder"/>
+    <fullyQualifiedTypeName name="Entity.Decorator.Food"/>
+    <fullyQualifiedTypeName name="Entity.AbstractFactory.PureMilk"/>
+    <fullyQualifiedTypeName name="Entity.Decorator.PureMilk"/>
+    <fullyQualifiedTypeName name="Entity.Decorator.SugarMilk"/>
+    <fullyQualifiedTypeName name="Entity.Decorator.Millk"/>
+    <fullyQualifiedTypeName name="Entity.Decorator.Yaour2"/>
+    <fullyQualifiedTypeName name="Entity.Decorator.PureYaour"/>
+    <fullyQualifiedTypeName name="Entity.Decorator.SugarYaour"/>
+    <fullyQualifiedTypeName name="Entity.Composite.Employee"/>
+    <fullyQualifiedTypeName name="Entity.Proxy.ProxyImage"/>
+</qualifiedTypeNameHistroy>

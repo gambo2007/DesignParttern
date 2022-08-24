@@ -1,0 +1,32 @@
+package Entity.Composite;
+import java.util.ArrayList;
+import java.util.List;
+
+public class Employee {
+   private String name;
+   private List<DetailsEmployee> subordinates;
+
+   // constructor
+
+   public Employee(String name) {
+	super();
+	this.name = name;
+	subordinates = new ArrayList<DetailsEmployee>();
+}
+
+public void add(DetailsEmployee e) {
+      subordinates.add(e);
+   }
+
+   public void remove(DetailsEmployee e) {
+      subordinates.remove(e);
+   }
+
+   public List<DetailsEmployee> getSubordinates(){
+     return subordinates;
+   }
+
+   public String toString(){
+      return ("Employee :[ Name : " + name + " ]");
+   }   
+}

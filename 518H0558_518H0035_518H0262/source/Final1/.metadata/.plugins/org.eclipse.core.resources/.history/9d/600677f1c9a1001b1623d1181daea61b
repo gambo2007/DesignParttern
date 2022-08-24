@@ -1,0 +1,13 @@
+package Entity.Template;
+
+public class FoodProcess {
+	public final void createFood() {
+        constructBase();
+        constructRoof();
+        constructWalls();
+        constructWindows();
+        constructDoors();
+        paintHouse();
+        decorateHouse();
+    }
+}

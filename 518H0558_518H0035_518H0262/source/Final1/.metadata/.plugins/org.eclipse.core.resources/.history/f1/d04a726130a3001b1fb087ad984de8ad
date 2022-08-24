@@ -1,0 +1,6 @@
+
+package Entity.Decorator;
+
+public abstract class condimentDecorator extends Food {
+	public abstract String getDescription();
+}

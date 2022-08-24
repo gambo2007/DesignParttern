@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\Admin\OneDrive\Máy tính\518H0558_518H0035_518H0262\518H0558_518H0035_518H0262\source\Final1\.metadata\.plugins\org.eclipse.jdt.core
+565767664.index
